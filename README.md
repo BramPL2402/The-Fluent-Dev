@@ -48,5 +48,5 @@ La carpeta de cada trabajo debe seguir este formato para mantener el orden:
 
 ---
 
-> "La ciberseguridad no es un producto, es un proceso." 
+> "La innovación es lo que distingue a un líder de un seguidor". - Steve Jobs
 > *¡Mucho éxito en este camino!*
